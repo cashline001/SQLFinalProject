@@ -1,0 +1,101 @@
+Customer_Number,Company_Name,Sales_Rep,Sales_Rep_Num
+PPW100104,Adams-Dach,Bartell,EMP00007
+PPW100072,Armstrong- Rogahn and Marks,Corkery,EMP00017
+PPW100032,Aufderhar and Sons,Hegmann,EMP00034
+PPW100105,Barrows-Cartwright,Hettinger,EMP00035
+PPW100078,Bartoletti- Kulas and Bernier,Lang,EMP00041
+PPW100059,Bashirian Inc,Roberts,EMP00048
+PPW100108,Bechtelar- Spinka and Roberts,Schmitt,EMP00053
+PPW100125,Bogisich and Sons,Skiles,EMP00055
+PPW100045,Boyle- Fay and Witting,Welch,EMP00064
+PPW100071,Braun- Wiza and Kuvalis,Bartell,EMP00007
+PPW100109,Breitenberg- Wolf and Torphy,Corkery,EMP00017
+PPW100123,Breitenberg-Barrows,Hegmann,EMP00034
+PPW100051,Breitenberg-Beatty,Hettinger,EMP00035
+PPW100096,Brekke-Effertz,Lang,EMP00041
+PPW100098,Carroll- Eichmann and Hudson,Roberts,EMP00048
+PPW100068,Christiansen Group,Schmitt,EMP00053
+PPW100100,Cole LLC,Skiles,EMP00055
+PPW100048,Cole-Mann,Welch,EMP00064
+PPW100067,Cormier LLC,Bartell,EMP00007
+PPW100047,Corwin PLC,Corkery,EMP00017
+PPW100031,Crist-Moen,Hegmann,EMP00034
+PPW100064,Crona- Lindgren and Rolfson,Hettinger,EMP00035
+PPW100046,Daugherty Ltd,Lang,EMP00041
+PPW100097,Dietrich-Franecki,Roberts,EMP00048
+PPW100055,Dooley- Abshire and Hartmann,Schmitt,EMP00053
+PPW100077,Doyle- Will and Schimmel,Skiles,EMP00055
+PPW100076,Ebert-Beahan,Welch,EMP00064
+PPW100062,Ernser Inc,Bartell,EMP00007
+PPW100037,Fisher- Koelpin and Windler,Corkery,EMP00017
+PPW100069,Flatley Group,Hegmann,EMP00034
+PPW100042,Friesen-Bergnaum,Hettinger,EMP00035
+PPW100106,Gibson- Johnston and Hartmann,Lang,EMP00041
+PPW100033,Gibson- Lebsack and Trantow,Roberts,EMP00048
+PPW100099,Grant-Ratke,Schmitt,EMP00053
+PPW100121,Gutmann and Sons,Skiles,EMP00055
+PPW100117,Harber- Hermann and Sanford,Welch,EMP00064
+PPW100090,Hartmann Ltd,Bartell,EMP00007
+PPW100049,Heidenreich-Schaden,Corkery,EMP00017
+PPW100101,Hermiston-Kirlin,Hegmann,EMP00034
+PPW100120,Hill-Murphy,Hettinger,EMP00035
+PPW100085,Hilpert- Stamm and Schaefer,Lang,EMP00041
+PPW100114,Hudson-Corkery,Roberts,EMP00048
+PPW100081,Hudson-Kiehn,Schmitt,EMP00053
+PPW100034,Hyatt-Bechtelar,Skiles,EMP00055
+PPW100030,Jast-Douglas,Welch,EMP00064
+PPW100026,Johnston- Stanton and Stehr,Bartell,EMP00007
+PPW100028,Jones PLC,Corkery,EMP00017
+PPW100102,Kautzer-Nikolaus,Hegmann,EMP00034
+PPW100043,Keebler-Leuschke,Hettinger,EMP00035
+PPW100060,Kling LLC,Lang,EMP00041
+PPW100094,Klocko-Padberg,Roberts,EMP00048
+PPW100050,Koepp and Sons,Schmitt,EMP00053
+PPW100041,Koss PLC,Skiles,EMP00055
+PPW100084,Krajcik- Lindgren and Lemke,Welch,EMP00064
+PPW100110,Kreiger- Leffler and Ferry,Bartell,EMP00007
+PPW100087,Kris Ltd,Corkery,EMP00017
+PPW100027,Kuphal- Mayert and Leffler,Hegmann,EMP00034
+PPW100056,Lynch-Bednar,Hettinger,EMP00035
+PPW100038,Marvin-Pagac,Lang,EMP00041
+PPW100111,McGlynn- Bartell and Tillman,Roberts,EMP00048
+PPW100080,McGlynn- Pfeffer and Kautzer,Schmitt,EMP00053
+PPW100091,Mertz and Sons,Skiles,EMP00055
+PPW100029,Moore- Weber and Maggio,Welch,EMP00064
+PPW100052,O'Connell-Reynolds,Bartell,EMP00007
+PPW100075,Ondricka-Auer,Corkery,EMP00017
+PPW100066,Orn Group,Hegmann,EMP00034
+PPW100058,Pacocha- Schiller and Dare,Hettinger,EMP00035
+PPW100113,Predovic-Leffler,Lang,EMP00041
+PPW100118,Price Inc,Roberts,EMP00048
+PPW100088,Prosacco Group,Schmitt,EMP00053
+PPW100070,Quigley-Wisoky,Skiles,EMP00055
+PPW100107,Reichert- Ankunding and Krajcik,Welch,EMP00064
+PPW100093,Reynolds- Reichel and Trantow,Bartell,EMP00007
+PPW100095,Runte Ltd,Corkery,EMP00017
+PPW100086,Ryan PLC,Hegmann,EMP00034
+PPW100063,Ryan- Steuber and Moen,Hettinger,EMP00035
+PPW100124,Sauer-Fisher,Lang,EMP00041
+PPW100073,Schimmel- Ratke and Kuvalis,Roberts,EMP00048
+PPW100035,Schinner- Bogisich and Keeling,Schmitt,EMP00053
+PPW100074,Schmidt Inc,Skiles,EMP00055
+PPW100112,Schultz and Sons,Welch,EMP00064
+PPW100065,Senger-Farrell,Bartell,EMP00007
+PPW100116,Shields- McGlynn and Hill,Corkery,EMP00017
+PPW100083,Sipes-Lueilwitz,Hegmann,EMP00034
+PPW100036,Skiles-Borer,Hettinger,EMP00035
+PPW100053,Skiles-Walsh,Lang,EMP00041
+PPW100122,Spencer PLC,Roberts,EMP00048
+PPW100040,Stamm and Sons,Schmitt,EMP00053
+PPW100082,Stokes Group,Skiles,EMP00055
+PPW100039,Tillman-Predovic,Welch,EMP00064
+PPW100057,Trantow-Bauch,Bartell,EMP00007
+PPW100103,Ullrich- Stanton and O'Reilly,Corkery,EMP00017
+PPW100115,Vandervort-Breitenberg,Hegmann,EMP00034
+PPW100092,Walter-Berge,Hettinger,EMP00035
+PPW100079,Wiegand- Wintheiser and Beier,Lang,EMP00041
+PPW100061,Williamson-Hahn,Roberts,EMP00048
+PPW100089,Wiza-Smitham,Schmitt,EMP00053
+PPW100044,Yundt-Kuvalis,Skiles,EMP00055
+PPW100119,Zemlak Group,Welch,EMP00064
+PPW100054,Ziemann PLC,Schmitt,EMP00053
